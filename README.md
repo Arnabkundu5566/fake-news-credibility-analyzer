@@ -65,6 +65,8 @@ Example:
 News: Scientists have discovered that drinking a special magical drink can make humans live for 200 years.
 
 Prediction: FAKE NEWS
+```
+
 ## Demo
 
 The project includes an interactive Streamlit web application that allows users to enter a news article or headline and receive a prediction.
